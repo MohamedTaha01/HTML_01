@@ -1,0 +1,29 @@
+body {
+  background-color: #CDF0EA;
+}
+
+h1 {
+  color: #BEAEE2;
+  font-size: 7rem;
+}
+
+h3 {
+  color: #BEAEE2;
+  font-size: 2rem;
+}
+
+p {
+  color: #393E46;
+  font-size: 2rem;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 2%;
+  border-top-width: 5px;
+  color: #BEAEE2;
+}
+img {
+  width: 700px;
+}
